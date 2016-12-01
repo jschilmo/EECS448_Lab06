@@ -1,0 +1,5 @@
+Buglist for Lab 06
+-isEmpty always return true
+-addBack adds to the front instead of the back
+-removeBack fails to remove anything
+-removeFront fails to remove anything
